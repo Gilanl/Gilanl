@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @Gilanl
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Gilanl/Gilanl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+</head> Halo! Saya [M. khafi almuzaki ]. Saya seorang [pelajar]
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       
+</head>
+<body>
+    <header>
+        <img src="link_https://images.app.goo.gl/5yYwXvLYzHbG9dDE7" alt="Foto Profil">
+        <h1>M.khafi almuzaki</h1>
+        <h2>Pelajar (SmkN2Lamongan)</h2>
+    </header>
+    <section>
+        <h2>Tentang Saya</h2>
+        <p> saya seorang pelajar yang belajara untuk web hosting
+        </p>
+    </section>
+    <section>
+        <h2>Kontak</h2>
+        <p>Email:xazugamingv@gmail.comcom</p>
+        <p></p>
+    </section>
+</body>
+</html>
