@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     
-</head> Halo! Saya [M. khafi almuzaki ]. Saya seorang [pelajar]
+</head> Halo! Saya [Andrian Gilang A. ]. Saya seorang [pelajar]
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
        
@@ -10,7 +10,7 @@
 <body>
     <header>
         <img src="link_https://images.app.goo.gl/5yYwXvLYzHbG9dDE7" alt="Foto Profil">
-        <h1>M.khafi almuzaki</h1>
+        <h1>Andrian Gilang A.</h1>
         <h2>Pelajar (SmkN2Lamongan)</h2>
     </header>
     <section>
@@ -20,7 +20,7 @@
     </section>
     <section>
         <h2>Kontak</h2>
-        <p>Email:xazugamingv@gmail.comcom</p>
+        <p>Email:gilangandrian69@gmail.comcom</p>
         <p></p>
     </section>
 </body>
